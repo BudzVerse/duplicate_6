@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /mobile-games
+Disallow: /tw/mobile-games
+Disallow: /kr/mobile-games
+Disallow: /vi/mobile-games
+Disallow: /th/mobile-games
+Disallow: /pt/mobile-games
+Disallow: /es/mobile-games
+Disallow: /jp/mobile-games
+
+sitemap: https://www.easyfun.gg/sitemap.txt
